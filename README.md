@@ -1,4 +1,4 @@
 vmadrid-com
 ===========
 
-Portafolios personal de Víctor
+Proyecto de portafolios personal de Víctor.
